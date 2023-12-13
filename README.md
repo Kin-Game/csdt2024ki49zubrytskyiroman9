@@ -15,3 +15,4 @@ The point of this cource is to create a simple game using hardware and software.
 # Software
 The frontend of the application os developed using Angular 2 with Ngrx, creating a Single Page Application (SPA). The
 programming language employed is TypeScript.
+.
